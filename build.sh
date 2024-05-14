@@ -1,5 +1,5 @@
 #!/bin/sh -ex
-VERSION=v1.63.0
+VERSION=v1.65.2
 git clone https://github.com/rclone/rclone.git
 (
     cd rclone &&
