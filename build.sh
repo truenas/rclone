@@ -1,5 +1,5 @@
 #!/bin/sh -ex
-VERSION=v1.67.0
+VERSION=v1.70.2
 
 # We specify netcgo tag because it is required if we want to use nscd
 git clone https://github.com/rclone/rclone.git
